@@ -1,0 +1,26 @@
+{
+    "name": "Alan Pérez PWA",
+    "short_name": "BCH-PWA",
+    "description": "Aplicación PWA de materia Web Progrsivas",
+    "background_color": "#FFF",
+    "theme_color": "#FB314E",
+    "orientation": "landscape",
+    "display":"standalone",
+    "start_up": "./index.html?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons": [
+        {
+          "src": "./img/favicon-512.jpg",
+          "sizes": "1024x1024",
+          "type": "image/jpg"
+        },
+        {
+          "src": "icono-512x512.png",
+          "sizes": "512x512",
+          "type": "image/jpg"
+        }
+      ],
+      "start_url": "/"
+      
+}
