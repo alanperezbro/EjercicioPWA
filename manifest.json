@@ -17,17 +17,17 @@
         },
         {
           "src": "img/gatito - 32.png",
-          "sizes": "512x512",
+          "sizes": "32x32",
           "type": "image/png"
         },
         {
           "src": "img/gatito - 64.png",
-          "sizes": "512x512",
+          "sizes": "64x64",
           "type": "image/png"
         },
         {
           "src": "img/gatito - 128.png",
-          "sizes": "512x512",
+          "sizes": "128x128",
           "type": "image/png"
         },
         {
