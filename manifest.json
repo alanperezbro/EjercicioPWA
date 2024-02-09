@@ -7,30 +7,29 @@
     "orientation": "landscape",
     "display":"standalone",
     "start_up": "./index.html?utm_source=web_app_manifest",
-    "scope":"./",
     "lang":"es-MX",
     "icons": [
-        {
-          "src": "/img/gatito.png",
-          "sizes": "600x401",
-          "type": "image/png"
-        },
-        {
-          "src": "img/gatito - 32.png",
-          "sizes": "32x32",
-          "type": "image/png"
-        },
-        {
-          "src": "img/gatito - 64.png",
-          "sizes": "64x64",
-          "type": "image/png"
-        },
-        {
-          "src": "img/gatito - 128.png",
-          "sizes": "128x128",
-          "type": "image/png"
-        },
-        {
+      {
+        "src": "/img/gatito.png",
+        "sizes": "600x401",
+        "type": "image/png"
+      },
+      {
+        "src": "img/gatito - 32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "img/gatito - 64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "img/gatito - 128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
           "src": "img/gatito - 512.png",
           "sizes": "512x512",
           "type": "image/png"
@@ -38,4 +37,4 @@
       ],
       "start_url": "/"
       
-}
+    }
