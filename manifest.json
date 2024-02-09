@@ -11,14 +11,29 @@
     "lang":"es-MX",
     "icons": [
         {
-          "src": "./img/favicon-512.jpg",
-          "sizes": "1024x1024",
-          "type": "image/jpg"
+          "src": "/img/gatito.png",
+          "sizes": "600x401",
+          "type": "image/png"
         },
         {
-          "src": "icono-512x512.png",
+          "src": "img/gatito - 32.png",
           "sizes": "512x512",
-          "type": "image/jpg"
+          "type": "image/png"
+        },
+        {
+          "src": "img/gatito - 64.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "src": "img/gatito - 128.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "src": "img/gatito - 512.png",
+          "sizes": "512x512",
+          "type": "image/png"
         }
       ],
       "start_url": "/"
