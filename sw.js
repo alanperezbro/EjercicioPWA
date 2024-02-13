@@ -3,7 +3,6 @@ const CACHE_NAME='v1_cache_BCH_PWA';
 var urlsToCache=[
     './',
     './css/style.css',
-    './img/gatito.png',
     './img/gatito - 32.png',
     './img/gatito - 64.png',
     './img/gatito - 128.png',

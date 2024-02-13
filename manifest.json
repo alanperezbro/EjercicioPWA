@@ -9,11 +9,7 @@
     "start_up": "./index.html?utm_source=web_app_manifest",
     "lang":"es-MX",
     "icons": [
-      {
-        "src": "/img/gatito.png",
-        "sizes": "600x401",
-        "type": "image/png"
-      },
+      
       {
         "src": "img/gatito - 32.png",
         "sizes": "32x32",
@@ -29,22 +25,26 @@
         "sizes": "128x128",
         "type": "image/png"
       },
-      {
-        "src": "img/Captura monitor.png",
-        "sizes": "1868x894",
-        "type": "image/png"
-      },
-      {
-        "src": "img/Captura celular.png",
-        "sizes": "500x798",
-        "type": "image/png"
-      },
+     
       {
           "src": "img/gatito - 512.png",
           "sizes": "512x512",
           "type": "image/png"
         }
       ],
+
+      "screenshot": [
+        {
+          "src": "img/Captura monitor.png",
+          "sizes": "1868x894",
+          "type": "image/png"
+        },
+        {
+          "src": "img/Captura celular.png",
+          "sizes": "500x798",
+          "type": "image/png"
+        }
+      ], 
       "start_url": "/"
       
     }
