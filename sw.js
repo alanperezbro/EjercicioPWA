@@ -7,7 +7,11 @@ var urlsToCache=[
     './img/gatito - 32.png',
     './img/gatito - 64.png',
     './img/gatito - 128.png',
+    './img/gatito - 512.png',
+    'img/Captura celular.png',
+    'img/Captura monitor.png',
     './img/gatito - 512.png'
+
 
 ];
 
